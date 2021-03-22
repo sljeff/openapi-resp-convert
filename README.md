@@ -1,6 +1,6 @@
 # openapi-resp-convert
 
-This program will convert the anonymous response (root schema has no ref to components) to ref with components; input is a yaml file and output as a JSON.
+This program will convert anonymous responses (root schema has no ref to components) to ref with components; input is a yaml file and output as a JSON.
 
 ## Usage
 
